@@ -22,7 +22,7 @@
 **21.How do we know our network is not going well, comparatively, very early:** Normally We check first two epoch output validation accuracy to know about the efficiency of our network.<br/></br>
 **22.Batch Size, and effects of batch size:** Batch size is a set of samples of training data that used in iteration of each epoch. Bigger batch size quicken the iteration process in each epoch and vice versa.<br/></br>
 **23.Number of Epochs and when to increase them:** one epoch is the complete processing of training data through designed network. To increase our validation accuracy we increase number of epochs in our model fit. <br/></br>
-**24.When to add validation checks:** <br/></br>
-**25.Checkboard Issue:** when we convolve with a stride of more than 1, we would be covering some pixels more than once and creating island of extra information spread around in a repeating pattern. </br>
-**26.Activation function:** Activation function is used to fire neuron if information receiving by neuron is relevant for the information given. They are required to do non-linear transformation</br>
+**24.When to add validation checks:**
+**25.Checkboard Issue:** when we convolve with a stride of more than 1, we would be covering some pixels more than once and creating island of extra information spread around in a repeating pattern. </br></br>
+**26.Activation function:** Activation function is used to fire neuron if information receiving by neuron is relevant for the information given. They are required to do non-linear transformation</br></br>
 **27.ReLU:** it is an activation function which turns negative weight to zero and pass all positive weight to next layer.</br>
