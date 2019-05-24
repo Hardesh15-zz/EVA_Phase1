@@ -1,4 +1,5 @@
 ## Assignment_4(Architectural Basics):
+Points are in order of our understanding of convolution neural network</br></br>
 **1.Kernels and how do we decide the number of kernels?:** Kernels are filter which convolves on input image and provide features for the next layer. The number of kernels are decided by the size of input image.</br></br>
 **2.Receptive Field:** It is the region of the input image where filter convolves.</br> </br>
 **3.How many layers:** Convolution layer, maxpooling layer, transition layer, fully connected layer, flatten layer</br> </br>
