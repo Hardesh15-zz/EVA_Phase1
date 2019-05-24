@@ -8,8 +8,8 @@ Observation: Model achieved validation accuracy- 99.15%. Model takes more time t
 
 **THIRD(4th Assignment):**</br>
 Improvement on SECOND(4th Assignment) code file- DropOut, Epochs-25.</br>
-Observation-Model achieved validation accuracy-99.42%
+Observation-Model achieved <b>*validation accuracy-99.42%*</b>
 
 **FOURTH(4th Assignment):**</br>
 Improvement on THIRD(4th Assignment) code file- increased Batch size and epochs and incremental model.fit()</br> 
-Observation-Model validation accuracy in first model.fit() reached to 99.33% while in second model.fit() validation accuracy increased to 99.49%.
+Observation-Model validation accuracy in first model.fit() reached to 99.33% while in second model.fit() <b>*validation accuracy increased to 99.49%.*</b>
