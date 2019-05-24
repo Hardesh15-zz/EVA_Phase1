@@ -4,7 +4,7 @@ Points are in order of our understanding of convolution neural network</br></br>
 **2.Receptive Field:** It is the region of the input image where filter convolves.</br> </br>
 **3.How many layers:** Convolution layer, maxpooling layer, transition layer, fully connected layer, flatten layer</br> </br>
 **4.3x3 Convolutions:** 3x3 is a three dimension vector which convolves on image to reduce dimension for the next layer.</br></br>
-**5.ReLU:** it is an activation function which turns negative weight to zero and pass all positive weight to next layer.</br>
+**5.ReLU:** it is an activation function which turns negative weight to zero and pass all positive weight to next layer.</br></br>
 **6.Batch Normalization:** it puts the data set in range of 0 to 1 and deal with the problem of gradient explosion.</br></br>
 **7.The distance of Batch Normalization from Prediction:** Batch normalization should be used before prediction.<br/></br>
 **8.DropOut:** It ignores neurons during training of certain set of neurons which is chosen at random. Ignored neurons do not consider by DropOut layer during forward or backward propagation.<br/></br>
