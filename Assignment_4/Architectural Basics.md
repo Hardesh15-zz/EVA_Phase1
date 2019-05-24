@@ -1,11 +1,11 @@
 ## Assignment_4(Architectural Basics):
-**1.How many layers:** Convolution layer, maxpooling layer, transition layer, fully connected layer.</br> </br>
+**1.How many layers:** Convolution layer, maxpooling layer, transition layer, fully connected layer, flatten layer</br> </br>
 **2.MaxPooling:** it reduces the dimensionality of feature map into equal size of tiles which creates a condensed feature map.</br> </br>
 **3.1x1 Convolutions:** 1x1 is merging the pre-existing feature extractors, creating new ones, keeping in mind that those features are found together.</br></br>
 **4.3x3 Convolutions:** 3x3 is a three dimension vector which convolves on image to reduce dimension for the next layer.</br></br>
 **5.Receptive Field:** It is the region of the input image where filter convolves.</br> </br>
 **6.SoftMax:** it is an activation function which converts output of the last layer based on probability distribution.</br></br> 
-**7.Learning Rate:** </br> </br>
+**7.Learning Rate:** It is a hyperparameter to tune our network model for better performance. it is also called step size which adjusted weights for each step during training. it's value is between 0.0 to 1.0</br> </br>
 **8.Kernels and how do we decide the number of kernels?:** Kernels are filter which convolves on input image and provide features for the next layer. The number of kernels are decided by the size of input image.</br></br>
 **9.Batch Normalization:** it puts the data set in range of 0 to 1 and deal with the problem of gradient explosion.</br></br>
 **10.Image Normalization:** It is used to increase contrast of the pixels for effectively extraction of features.</br></br>
@@ -17,7 +17,7 @@
 **16.When do we introduce DropOut, or when do we know we have some overfitting:** When Test accuracy is higher than validation accuracy.<br/></br>
 **17.The distance of MaxPooling from Prediction:** MaxPooling is used before prediction.<br/></br>
 **18.The distance of Batch Normalization from Prediction:** Batch normalization should be used before prediction.<br/></br>
-**19.When do we stop convolutions and go ahead with a larger kernel or some other alternative (which we have not yet covered):** <br/></br>
+**19.When do we stop convolutions and go ahead with a larger kernel or some other alternative (which we have not yet covered):** We stop convolution before flatten layer<br/></br>
 **20.How do we know our network is not going well, comparatively, very early:** Normally We check first two epoch output validation accuracy to know about the efficiency of our network.<br/></br>
 **21.Batch Size, and effects of batch size:** Batch size is a set of samples of training data that used in iteration of each epoch. Bigger batch size quicken the iteration process in each epoch and vice versa.<br/></br>
 **22.When to add validation checks:** <br/></br>
