@@ -1,6 +1,6 @@
 **FIRST(4th Assignment):**</br>
-In this code file, i want to use maximum parameters under given limit of 15k parameters. i tried with vanilla netwrok.</br> 
-Observation: Model achieved- 99.17% validation accuracy.
+In this code file, i tried with vanilla network under given limit of 15k parameters.</br> 
+Observation: Model achieved- 98.86% validation accuracy.
 
 **SECOND(4th Assignment):**</br>
 Max. 3 improvments on FIRST(4th Assignment) code file- Parameters, Batch Normalization and epochs-15.</br>
