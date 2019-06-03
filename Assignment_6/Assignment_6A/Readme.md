@@ -7,3 +7,4 @@
   - follow the guidelines we discussed in the class (
   - Get accuracy more than the base accuracy in less number 100 epochs. Hint, you might want to use "border_mode='same',"<br>
   - Save File as Assignment 6A<br>
+### *Observation: Model validation accuracy (75 epochs) : 84.55% (Max: 85.24%)*
