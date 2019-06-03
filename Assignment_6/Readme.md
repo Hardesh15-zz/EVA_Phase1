@@ -1,7 +1,7 @@
 ## Assignment_6
 1.Run [this network](https://colab.research.google.com/drive/1STOg33u7haqSptyjUL40FZIxNW4XdBQK)<br> 
 After training the network, whatever accuracy you get is your base accuracy. Epochs = 100<br>
-
+### Observation: Model Base Accuracy (After 100 epochs)= 82.76% (Max: 83.64%)
 
 2.Fix the network above:<br>
   - remove dense<br>
@@ -11,7 +11,7 @@ After training the network, whatever accuracy you get is your base accuracy. Epo
   - follow the guidelines we discussed in the class (
   - Get accuracy more than the base accuracy in less number 100 epochs. Hint, you might want to use "border_mode='same',"<br>
   - Save File as Assignment 6A<br>
-  
+### Observation: Model validation accuracy (75 epochs) : 84.55% (Max: 85.24%) 
   
 3.Rewrite it again using these convolutions in the order given below:<br>
   - Normal Convolution<br>
