@@ -1,5 +1,5 @@
 ## Assignment_6A <br>
-### Fix the network above:<br>
+### Fix the network:<br>
   - remove dense<br>
   - add layers required to reach RF<br>
   - fix kernel scaleup and down (1x1)<br>
