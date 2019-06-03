@@ -1,5 +1,5 @@
 ## Assignment_6B <br>
-### Rewrite it again using these convolutions in the order given below:<br>
+### Rewrite model again using these convolutions in the order given below:<br>
   - Normal Convolution<br>
   - Separable Convolution <br>
   - Depthwise Convolution<br>
