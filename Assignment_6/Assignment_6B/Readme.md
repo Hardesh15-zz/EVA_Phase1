@@ -1,7 +1,7 @@
 ## Assignment_6B <br>
 ### Rewrite model again using these convolutions in the order given below:<br>
   - Normal Convolution<br>
-  - Separable Convolution <br>
+  - Spatially Separable Convolution <br>
   - Depthwise Convolution<br>
   - Grouped Convolution (use 3x3, 5x5 only)<br>
   - Grouped Convolution (use 3x3 only, one with dilation = 1, and another with dilation = 2)<br> 
