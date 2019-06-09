@@ -1,11 +1,13 @@
-Check this paper out: https://arxiv.org/pdf/1409.4842.pdf (Links to an external site.)Links to an external site.
-They mention on page 6, that the RF is 224x224. 
-Use the formulas above and show the calculations
-Submit this in the readme file
-Design this network (CIFAR10):
+## Assignment_7
 
-Image result for eNAS network architecture
-The lines you see are the skip-connections. You need to add them
-Train for 100 Epochs (add BN and ReLU after every layer)
-Submit the results
-Total assignment score is 600, 100 for the first task, and 500 for the second)
+<b>1. Check this paper out: https://arxiv.org/pdf/1409.4842.pdf</b><br>
+   1.They mention on page 6, that the RF is 224x224. <br>
+   2.Use the formulas above and show the calculations<br>
+   3.Submit this in the readme file<br>
+<b>2. Design this network (CIFAR10):</b>
+![ENAS](https://user-images.githubusercontent.com/49491447/59156921-a9490680-8ac0-11e9-83fd-574ec621e908.JPG)<br>
+   1.Image result for eNAS network architecture<br>
+   2.The lines you see are the skip-connections. You need to add them<br>
+   3.Train for 100 Epochs (add BN and ReLU after every layer)<br>
+   4.Submit the results<br>
+   5.Total assignment score is 600, 100 for the first task, and 500 for the second)<br>
