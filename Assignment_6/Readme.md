@@ -1,7 +1,8 @@
 ## Assignment_6
 1.Run [this network](https://colab.research.google.com/drive/1STOg33u7haqSptyjUL40FZIxNW4XdBQK)<br> 
 After training the network, whatever accuracy you get is your base accuracy. Epochs = 100<br>
-### Observation: Model Base Accuracy (After 100 epochs)= 82.76% (Max: 83.64%)
+### Observation: Model Base Accuracy (After 100 epochs)= 91.52% 
+### Validation Accuracy = 82.76% (Max: 83.64%)
 
 2.Fix the network above:<br>
   - remove dense<br>
