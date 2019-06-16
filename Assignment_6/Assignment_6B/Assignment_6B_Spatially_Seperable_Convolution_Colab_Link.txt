@@ -1,3 +1,0 @@
-Spatially Seperable Convolution_Colab_Link
-
-https://colab.research.google.com/drive/1nlYUw6cF868ZbwBR9mlkp_7HLMyGNRgy
