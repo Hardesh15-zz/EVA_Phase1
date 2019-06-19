@@ -1,7 +1,7 @@
 ## Calculation for RF # 224 * 224
-N(output) = ( ( N(input) + 2 * (Padding) - K )/2 ) + 1 <br>
-RF(output) = RF(input) + (K-1) * Jump(input) <br>
-Jump(output) = Jump(input) * Stride
+<b>N(output)</b> = ( ( N(input) + 2 * (Padding) - K )/2 ) + 1 <br>
+<b>RF(output)</b> = RF(input) + (K-1) * Jump(input) <br>
+<b>Jump(output)</b> = Jump(input) * Stride
 
 |  Layer  | K,P,S  | Input|Output| RF             |  Jump    |
 | ------  | ------ |------|------|--------------  |--------- |
