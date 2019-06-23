@@ -1,5 +1,5 @@
 ## Calculation for RF # 224 * 224
-<b>N(output)</b> = ( ( N(input) + 2 * (Padding) - K )/2 ) + 1 <br>
+<b>N(output)</b> = ( ( N(input) + 2 * (Padding) - K )/S ) + 1 <br>
 <b>RF(output)</b> = RF(input) + (K-1) * Jump(input) <br>
 <b>Jump(output)</b> = Jump(input) * Stride
 
