@@ -1,0 +1,8 @@
+Calculation of RF field -
+============================
+1.We can use receptive field calculation formula.
+2.As mentioned in paper, K = 3, S = 2, J = 8 
+since Rf = rf(in) + (k-1)J
+      Rf = 29 + (3-1)8   # rf(in) is previous layer receptive field and in this case it is 29
+      Rf = 29 + 16
+      Rf = 45  
